@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.box{
+    background-image:url('https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523');
+    height:500px;
+    width:400px;
+    background-position:right;
+    margin: 0 auto;
+    margin-top:25px;
+    background-size: cover;
+}
+
+.heading{
+    color: white;
+    text-align: center;
+    padding-top:10px;
+}
+
+.para{
+    color:white;
+    padding:40px 20px;
+    text-align: center;
+}
+
+.heading-2{
+    color:white;
+    padding-left:5px;
+}
+
+.para-2{
+    color:white;
+    padding:20px 5px;
+}
+
+button{
+    background-color:orange;
+    padding:10px 20px;
+    color:white;
+    margin-left:40%;
+    margin-right:50%;
+    border-top-style:groove;
+    border-left-style: groove;
+}
+
+.para-3{
+    color:white;
+    text-decoration:underline;
+    text-align: center;
+    font-size:10px;
+    margin-top:10px;
+}
