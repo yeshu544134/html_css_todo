@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Roboto";
+}
+
+.container{
+    height:550px;
+    width:350px;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    margin:0 auto;
+}
+
+.heading{
+    text-align: center;
+    height:50px;
+    padding-top:10px;
+}
+
+.container-chat{
+    margin-top:40px;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+h3{
+    border-radius:5px;
+    padding:8px;
+    font-size:13px;
+    margin-bottom:12px;
+}
